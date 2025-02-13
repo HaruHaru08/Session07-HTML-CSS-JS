@@ -1,0 +1,40 @@
+*{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #231751;
+    box-sizing: border-box;
+}
+section {
+   margin: 40px;
+   background-color: #eaeaea;
+   padding: 20px;
+}
+.tieude {
+    margin: 10px;
+    text-align: center;
+}
+.tieude h1{
+    margin: 10px;
+}
+table {
+    margin-left:30% ;
+}
+table tr td{
+    font-size: 16px;
+}
+button{
+    margin-top: 20px;
+    font-size: 16px;
+    padding: 10px;
+}
+.button-one {
+    margin-left: 450px;
+    border-radius: 5px;
+    color: #fffefe;
+    background-color: #bc2229;
+}
+.button-second {
+    border-radius: 4px;
+}
