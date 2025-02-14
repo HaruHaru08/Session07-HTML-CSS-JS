@@ -19,7 +19,7 @@ section {
     margin: 10px;
 }
 table {
-    margin-left:30% ;
+    margin-left:33% ;
 }
 table tr td{
     font-size: 16px;
@@ -30,7 +30,7 @@ button{
     padding: 10px;
 }
 .button-one {
-    margin-left: 450px;
+    margin-left: 550px;
     border-radius: 5px;
     color: #fffefe;
     background-color: #bc2229;
